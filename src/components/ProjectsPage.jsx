@@ -53,7 +53,7 @@ const projectsData = [
     },
     {
       title: 'AI Play Music with Emotions',
-      description: '🎵 AI Play Music with Emotions An AI-powered music player that detects your emotions and plays songs that match your mood. Whether you’re feeling happy, sad, relaxed, or energetic, this AI assistant curates a playlist tailored to your emotional state.',
+      description: '🎵 AI Play Music with Emotions An AI-powered music player that detects your emotions and plays songs that match your mood. ',
       imageUrl: 'https://tse2.mm.bing.net/th/id/OIP.uLmLgdVyOB2x1ShCHQyv1QHaD4?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3',
       tags: ['API', 'Python'], liveUrl: '#', repoUrl: 'https://github.com/wasiqzahoor/AI-Play-Music-with-Emotions',
     },
